@@ -1,0 +1,11 @@
+{
+  "name": "tag-file",
+  "private": true,
+  "workspaces": [
+    "cli",
+    "core"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

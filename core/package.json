@@ -1,0 +1,13 @@
+{
+  "name": "@tag-file/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node --test *.spec.mjs",
+    "doc": "npx documentation build --f md > README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
